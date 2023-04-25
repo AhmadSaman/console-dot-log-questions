@@ -17,6 +17,10 @@ this is one example and this applies to all the other raw files (`b-questions.md
 
 **note**: to see all questions check `/questions` folder
 
+### can I contirbute ?
+- Yes, there is no fun doing all this alone you can get any javascript multichoice repository and formatted to a valid quetions, how to do it ?, easy create your JS file inside `./format/r-format.js` exportted and call it inside index or just run you file `node file_name.js` then check if every thing looks fine then create a PR on this repository 
+- Another way to contirbute is the original project [Console Logame](https://github.com/AhmadSaman/console-dot-logame), open an issue there I will create an issue for you to work on it, but the project it still in progress there is alot to do 
+
 
 ### Inspired By 
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions)
