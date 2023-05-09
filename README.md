@@ -5,7 +5,7 @@
  Console Logame is an interactive console-based game that tests your knowledge of JavaScript through multiple-choice questions. With various game modes to choose from, it offers an engaging way to enhance your JavaScript skills and have fun at the same time.
 
 ## Modes
-- Modes:
+
  - Casual: 
       nothing interesting just random questions coming again and again 
  - Nerds(coming soon): 
